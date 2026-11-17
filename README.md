@@ -1,3 +1,5 @@
+
+
 # Azerbaijan Price Comparison Bot
 
 A Telegram bot designed to help users compare electronic product prices across popular stores in Azerbaijan.
@@ -51,6 +53,8 @@ Users select a product category and choose a specific product. The bot displays 
 Project Demonstration
 
 Here is a short video demonstrating how the project works:
+
+https://github.com/user-attachments/assets/6523b3ad-51e4-46fe-b8ee-4ed1ab825423
 
 
 Author
